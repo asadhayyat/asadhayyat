@@ -1,8 +1,10 @@
 # 👋 Hi, I'm Asad,
 
-iOS Developer • Swift Enthusiast • UI Perfectionist
+## 📖 About Me
 
-Welcome to my GitHub! I specialize in crafting beautiful, performant iOS apps using **Swift**, **SwiftUI**, and **UIKit**. Whether I’m building a quick prototype or a production-ready app, I’m all about clean code, thoughtful design, and intuitive UX.
+- 6+ years of experience developing naKve iOS applicaKons.
+- Worked on large scale mobile applicaKons having 100,000+ daily ac3ve users.
+- Led the development of over 7 applicaKons.
 
 ## 🚀 What I Do
 
