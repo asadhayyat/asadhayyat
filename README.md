@@ -1,11 +1,3 @@
-# 👋 Hi, I'm Asad,
-
-## 📖 About Me
-
-- 7+ years of experience developing native iOS applications.
-- Worked on large scale mobile applications having 100,000+ daily active users.
-- Led the development of over 7 applications.
-
 ## 🚀 What I Do
 
 - 📱 iOS Development with **Swift**, **SwiftUI**, and **UIKit**
