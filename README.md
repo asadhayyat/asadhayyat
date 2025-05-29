@@ -1,15 +1,17 @@
-👋 Hey there, I'm Asad
-Welcome to my corner of GitHub! I’m an iOS developer who turns coffee ☕ into elegant, performant Swift code. Whether it's UIKit, SwiftUI, Core Data, or pushing pixels with Metal – I love building apps that are both beautiful and functional.
+# 👋 Hi, I'm [Your Name]
 
-🚀 What I Do
-🔨 iOS Development (Swift / SwiftUI / UIKit)
+iOS Developer • Swift Enthusiast • UI Perfectionist
 
-🧠 Architect clean and scalable code (MVVM, VIPER, Clean Architecture)
+Welcome to my GitHub! I specialize in crafting beautiful, performant iOS apps using **Swift**, **SwiftUI**, and **UIKit**. Whether I’m building a quick prototype or a production-ready app, I’m all about clean code, thoughtful design, and intuitive UX.
 
-🧪 TDD / Unit Testing / UI Testing
+---
 
-🧩 Integrate APIs (REST/GraphQL)
+## 🚀 What I Do
 
-🎨 Build pixel-perfect UI with a dash of animation magic
+- 📱 iOS Development with **Swift**, **SwiftUI**, and **UIKit**
+- 📦 Architecture: MVVM, VIPER, Clean Architecture
+- 🔍 Write maintainable code with **Unit/UI Testing** and **TDD**
+- ⚡️ Integrate APIs (REST/GraphQL), Firebase, and Core Data
+- 🎨 Pixel-perfect UIs with animation, layout finesse, and haptics
 
-☁️ Backend communication 
+---
