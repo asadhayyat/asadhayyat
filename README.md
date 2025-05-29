@@ -2,9 +2,9 @@
 
 ## 📖 About Me
 
-- 6+ years of experience developing naKve iOS applicaKons.
-- Worked on large scale mobile applicaKons having 100,000+ daily ac3ve users.
-- Led the development of over 7 applicaKons.
+- 7+ years of experience developing native iOS applications.
+- Worked on large scale mobile applications having 100,000+ daily active users.
+- Led the development of over 7 applications.
 
 ## 🚀 What I Do
 
